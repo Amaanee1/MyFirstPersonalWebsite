@@ -1,0 +1,39 @@
+body {
+background-color:#DDDDDD;
+}
+hr { 
+border-style: dashed;
+width: 95%;
+border-color:#91939c;
+}
+h4 {
+color:#bb3a3a;
+font-style:italic;
+}
+h3 {
+color:#222831;
+font-family:monospace;
+}
+h1 {
+color:#30475E;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h2 {
+color:#30475E;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul {
+color:#bb3a3a;
+font-family:monospace;
+font-size:0.4cm;
+}
+ol {
+color:#bb3a3a;
+font-family:monospace;
+font-size:0.4cm;
+}
+table {
+color:#bb3a3a;
+font-family:monospace;
+font-size:0.4cm;
+}
