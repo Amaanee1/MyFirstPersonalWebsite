@@ -14,3 +14,8 @@ font-family:monospace;
 color:#bb3a3a;
 font-size:0.4cm
 }
+hr { 
+border-style: dashed;
+width: 95%;
+border-color:#91939c;
+}
